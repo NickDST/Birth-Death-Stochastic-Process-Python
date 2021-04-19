@@ -2,7 +2,7 @@
 Author: Nicholas Ho
 Date : 2021-02-17
 ---
-#  PHY598-pset3
+#  Stochastic Simulations - Birth Death Process
 ---
 Tags: #math
 #### Sources/References
